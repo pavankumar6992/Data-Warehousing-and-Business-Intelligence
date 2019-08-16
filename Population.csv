@@ -1,0 +1,221 @@
+"Year","Region_ID","Region","Country_ID","Country","Population"
+"2012",3,"Middle East and Africa",1,"Algeria",37565847
+"2012",5,"South and Central America",2,"Argentina",42096739
+"2012",1,"Asia Pacific",3,"Australia",22742475
+"2012",2,"Europe and CIS",4,"Belgium",11128246
+"2012",5,"South and Central America",5,"Brazil",200560983
+"2012",4,"North America",6,"Canada",34750545
+"2012",5,"South and Central America",7,"Chile",17309746
+"2012",1,"Asia Pacific",8,"China",1350695000
+"2012",5,"South and Central America",9,"Colombia",46881475
+"2012",2,"Europe and CIS",10,"Czech Republic",10510785
+"2012",2,"Europe and CIS",11,"Egypt, Arab Rep.",87813257
+"2012",2,"Europe and CIS",12,"France",65659789
+"2012",2,"Europe and CIS",13,"Germany",80425823
+"2012",1,"Asia Pacific",14,"India",1263065852
+"2012",1,"Asia Pacific",15,"Indonesia",248883232
+"2012",2,"Europe and CIS",16,"Iran, Islamic Rep.",76453574
+"2012",2,"Europe and CIS",17,"Italy",59539717
+"2012",1,"Asia Pacific",18,"Japan",127629000
+"2012",2,"Europe and CIS",19,"Kazakhstan",16792089
+"2012",3,"Middle East and Africa",21,"Kuwait",3395556
+"2012",1,"Asia Pacific",22,"Malaysia",29170456
+"2012",5,"South and Central America",23,"Mexico",120828307
+"2012",2,"Europe and CIS",24,"Netherlands",16754962
+"2012",1,"Asia Pacific",25,"New Zealand",4408100
+"2012",3,"Middle East and Africa",26,"Nigeria",167297284
+"2012",2,"Europe and CIS",27,"Norway",5018573
+"2012",2,"Europe and CIS",28,"Poland",38063164
+"2012",2,"Europe and CIS",29,"Portugal",10514844
+"2012",2,"Europe and CIS",30,"Romania",20058035
+"2012",2,"Europe and CIS",31,"Russian Federation",143201676
+"2012",3,"Middle East and Africa",32,"Saudi Arabia",29086357
+"2012",3,"Middle East and Africa",33,"South Africa",52998213
+"2012",2,"Europe and CIS",20,"Korea, Rep.",50199853
+"2012",2,"Europe and CIS",34,"Spain",46773055
+"2012",2,"Europe and CIS",35,"Sweden",9519374
+"2012",1,"Asia Pacific",36,"Taiwan",49082997
+"2012",1,"Asia Pacific",37,"Thailand",67843979
+"2012",2,"Europe and CIS",38,"Turkey",74569867
+"2012",2,"Europe and CIS",39,"Ukraine",45593300
+"2012",3,"Middle East and Africa",40,"United Arab Emirates",8900453
+"2012",2,"Europe and CIS",41,"United Kingdom",63700300
+"2012",4,"North America",42,"United States",313993272
+"2012",2,"Europe and CIS",43,"Uzbekistan",29774500
+"2012",2,"Europe and CIS",44,"Venezuela, RB",29893080
+"2013",3,"Middle East and Africa",1,"Algeria",38338562
+"2013",5,"South and Central America",2,"Argentina",42539925
+"2013",1,"Asia Pacific",3,"Australia",23145901
+"2013",2,"Europe and CIS",4,"Belgium",11182817
+"2013",5,"South and Central America",5,"Brazil",202408632
+"2013",4,"North America",6,"Canada",35152370
+"2013",5,"South and Central America",7,"Chile",17462982
+"2013",1,"Asia Pacific",8,"China",1357380000
+"2013",5,"South and Central America",9,"Colombia",47342981
+"2013",2,"Europe and CIS",10,"Czech Republic",10514272
+"2013",2,"Europe and CIS",11,"Egypt, Arab Rep.",89807433
+"2013",2,"Europe and CIS",12,"France",65998660
+"2013",2,"Europe and CIS",13,"Germany",80645605
+"2013",1,"Asia Pacific",14,"India",1278562207
+"2013",1,"Asia Pacific",15,"Indonesia",252032263
+"2013",2,"Europe and CIS",16,"Iran, Islamic Rep.",77435384
+"2013",2,"Europe and CIS",17,"Italy",60233948
+"2013",1,"Asia Pacific",18,"Japan",127445000
+"2013",2,"Europe and CIS",19,"Kazakhstan",17035550
+"2013",3,"Middle East and Africa",21,"Kuwait",3598385
+"2013",1,"Asia Pacific",22,"Malaysia",29706724
+"2013",5,"South and Central America",23,"Mexico",122535969
+"2013",2,"Europe and CIS",24,"Netherlands",16804432
+"2013",1,"Asia Pacific",25,"New Zealand",4442100
+"2013",3,"Middle East and Africa",26,"Nigeria",171829303
+"2013",2,"Europe and CIS",27,"Norway",5079623
+"2013",2,"Europe and CIS",28,"Poland",38040196
+"2013",2,"Europe and CIS",29,"Portugal",10457295
+"2013",2,"Europe and CIS",30,"Romania",19983693
+"2013",2,"Europe and CIS",31,"Russian Federation",143506911
+"2013",3,"Middle East and Africa",32,"Saudi Arabia",29944476
+"2013",3,"Middle East and Africa",33,"South Africa",53767396
+"2013",2,"Europe and CIS",20,"Korea, Rep.",50428893
+"2013",2,"Europe and CIS",34,"Spain",46620045
+"2013",2,"Europe and CIS",35,"Sweden",9600379
+"2013",1,"Asia Pacific",36,"Taiwan",50636595
+"2013",1,"Asia Pacific",37,"Thailand",68143065
+"2013",2,"Europe and CIS",38,"Turkey",75787333
+"2013",2,"Europe and CIS",39,"Ukraine",45489600
+"2013",3,"Middle East and Africa",40,"United Arab Emirates",9006263
+"2013",2,"Europe and CIS",41,"United Kingdom",64128226
+"2013",4,"North America",42,"United States",316234505
+"2013",2,"Europe and CIS",43,"Uzbekistan",30243200
+"2013",2,"Europe and CIS",44,"Venezuela, RB",30317848
+"2014",3,"Middle East and Africa",1,"Algeria",39113313
+"2014",5,"South and Central America",2,"Argentina",42981515
+"2014",1,"Asia Pacific",3,"Australia",23504138
+"2014",2,"Europe and CIS",4,"Belgium",11209057
+"2014",5,"South and Central America",5,"Brazil",204213133
+"2014",4,"North America",6,"Canada",35535348
+"2014",5,"South and Central America",7,"Chile",17613798
+"2014",1,"Asia Pacific",8,"China",1364270000
+"2014",5,"South and Central America",9,"Colombia",47791911
+"2014",2,"Europe and CIS",10,"Czech Republic",10525347
+"2014",2,"Europe and CIS",11,"Egypt, Arab Rep.",91812566
+"2014",2,"Europe and CIS",12,"France",66316092
+"2014",2,"Europe and CIS",13,"Germany",80982500
+"2014",1,"Asia Pacific",14,"India",1293859294
+"2014",1,"Asia Pacific",15,"Indonesia",255131116
+"2014",2,"Europe and CIS",16,"Iran, Islamic Rep.",78411092
+"2014",2,"Europe and CIS",17,"Italy",60789140
+"2014",1,"Asia Pacific",18,"Japan",127276000
+"2014",2,"Europe and CIS",19,"Kazakhstan",17288285
+"2014",3,"Middle East and Africa",21,"Kuwait",3782450
+"2014",1,"Asia Pacific",22,"Malaysia",30228017
+"2014",5,"South and Central America",23,"Mexico",124221600
+"2014",2,"Europe and CIS",24,"Netherlands",16865008
+"2014",1,"Asia Pacific",25,"New Zealand",4509700
+"2014",3,"Middle East and Africa",26,"Nigeria",176460502
+"2014",2,"Europe and CIS",27,"Norway",5137232
+"2014",2,"Europe and CIS",28,"Poland",38011735
+"2014",2,"Europe and CIS",29,"Portugal",10401062
+"2014",2,"Europe and CIS",30,"Romania",19908979
+"2014",2,"Europe and CIS",31,"Russian Federation",143819666
+"2014",3,"Middle East and Africa",32,"Saudi Arabia",30776722
+"2014",3,"Middle East and Africa",33,"South Africa",54539571
+"2014",2,"Europe and CIS",20,"Korea, Rep.",50746659
+"2014",2,"Europe and CIS",34,"Spain",46480882
+"2014",2,"Europe and CIS",35,"Sweden",9696110
+"2014",1,"Asia Pacific",36,"Taiwan",52234869
+"2014",1,"Asia Pacific",37,"Thailand",68416772
+"2014",2,"Europe and CIS",38,"Turkey",77030628
+"2014",2,"Europe and CIS",39,"Ukraine",45271947
+"2014",3,"Middle East and Africa",40,"United Arab Emirates",9070867
+"2014",2,"Europe and CIS",41,"United Kingdom",64613160
+"2014",4,"North America",42,"United States",318622525
+"2014",2,"Europe and CIS",43,"Uzbekistan",30757700
+"2014",2,"Europe and CIS",44,"Venezuela, RB",30738378
+"2015",3,"Middle East and Africa",1,"Algeria",39871528
+"2015",5,"South and Central America",2,"Argentina",43417765
+"2015",1,"Asia Pacific",3,"Australia",23850784
+"2015",2,"Europe and CIS",4,"Belgium",11274196
+"2015",5,"South and Central America",5,"Brazil",205962108
+"2015",4,"North America",6,"Canada",35832513
+"2015",5,"South and Central America",7,"Chile",17762681
+"2015",1,"Asia Pacific",8,"China",1371220000
+"2015",5,"South and Central America",9,"Colombia",48228697
+"2015",2,"Europe and CIS",10,"Czech Republic",10546059
+"2015",2,"Europe and CIS",11,"Egypt, Arab Rep.",93778172
+"2015",2,"Europe and CIS",12,"France",66593366
+"2015",2,"Europe and CIS",13,"Germany",81686611
+"2015",1,"Asia Pacific",14,"India",1309053980
+"2015",1,"Asia Pacific",15,"Indonesia",258162113
+"2015",2,"Europe and CIS",16,"Iran, Islamic Rep.",79360487
+"2015",2,"Europe and CIS",17,"Italy",60730582
+"2015",1,"Asia Pacific",18,"Japan",127141000
+"2015",2,"Europe and CIS",19,"Kazakhstan",17542806
+"2015",3,"Middle East and Africa",21,"Kuwait",3935794
+"2015",1,"Asia Pacific",22,"Malaysia",30723155
+"2015",5,"South and Central America",23,"Mexico",125890949
+"2015",2,"Europe and CIS",24,"Netherlands",16939923
+"2015",1,"Asia Pacific",25,"New Zealand",4595700
+"2015",3,"Middle East and Africa",26,"Nigeria",181181744
+"2015",2,"Europe and CIS",27,"Norway",5190239
+"2015",2,"Europe and CIS",28,"Poland",37986412
+"2015",2,"Europe and CIS",29,"Portugal",10358076
+"2015",2,"Europe and CIS",30,"Romania",19815481
+"2015",2,"Europe and CIS",31,"Russian Federation",144096870
+"2015",3,"Middle East and Africa",32,"Saudi Arabia",31557144
+"2015",3,"Middle East and Africa",33,"South Africa",55291225
+"2015",2,"Europe and CIS",20,"Korea, Rep.",51014947
+"2015",2,"Europe and CIS",34,"Spain",46444832
+"2015",2,"Europe and CIS",35,"Sweden",9799186
+"2015",1,"Asia Pacific",36,"Taiwan",53879957
+"2015",1,"Asia Pacific",37,"Thailand",68657600
+"2015",2,"Europe and CIS",38,"Turkey",78271472
+"2015",2,"Europe and CIS",39,"Ukraine",45154029
+"2015",3,"Middle East and Africa",40,"United Arab Emirates",9154302
+"2015",2,"Europe and CIS",41,"United Kingdom",65128861
+"2015",4,"North America",42,"United States",321039839
+"2015",2,"Europe and CIS",43,"Uzbekistan",31298900
+"2015",2,"Europe and CIS",44,"Venezuela, RB",31155134
+"2016",3,"Middle East and Africa",1,"Algeria",40606052
+"2016",5,"South and Central America",2,"Argentina",43847430
+"2016",1,"Asia Pacific",3,"Australia",24210809
+"2016",2,"Europe and CIS",4,"Belgium",11331422
+"2016",5,"South and Central America",5,"Brazil",207652865
+"2016",4,"North America",6,"Canada",36264604
+"2016",5,"South and Central America",7,"Chile",17909754
+"2016",1,"Asia Pacific",8,"China",1378665000
+"2016",5,"South and Central America",9,"Colombia",48653419
+"2016",2,"Europe and CIS",10,"Czech Republic",10566332
+"2016",2,"Europe and CIS",11,"Egypt, Arab Rep.",95688681
+"2016",2,"Europe and CIS",12,"France",66859768
+"2016",2,"Europe and CIS",13,"Germany",82348669
+"2016",1,"Asia Pacific",14,"India",1324171354
+"2016",1,"Asia Pacific",15,"Indonesia",261115456
+"2016",2,"Europe and CIS",16,"Iran, Islamic Rep.",80277428
+"2016",2,"Europe and CIS",17,"Italy",60627498
+"2016",1,"Asia Pacific",18,"Japan",126994511
+"2016",2,"Europe and CIS",19,"Kazakhstan",17794055
+"2016",3,"Middle East and Africa",21,"Kuwait",4052584
+"2016",1,"Asia Pacific",22,"Malaysia",31187265
+"2016",5,"South and Central America",23,"Mexico",127540423
+"2016",2,"Europe and CIS",24,"Netherlands",17030314
+"2016",1,"Asia Pacific",25,"New Zealand",4693200
+"2016",3,"Middle East and Africa",26,"Nigeria",185989640
+"2016",2,"Europe and CIS",27,"Norway",5234519
+"2016",2,"Europe and CIS",28,"Poland",37970087
+"2016",2,"Europe and CIS",29,"Portugal",10325452
+"2016",2,"Europe and CIS",30,"Romania",19702332
+"2016",2,"Europe and CIS",31,"Russian Federation",144342396
+"2016",3,"Middle East and Africa",32,"Saudi Arabia",32275687
+"2016",3,"Middle East and Africa",33,"South Africa",56015473
+"2016",2,"Europe and CIS",20,"Korea, Rep.",51245707
+"2016",2,"Europe and CIS",34,"Spain",46484062
+"2016",2,"Europe and CIS",35,"Sweden",9923085
+"2016",1,"Asia Pacific",36,"Taiwan",55572201
+"2016",1,"Asia Pacific",37,"Thailand",68863514
+"2016",2,"Europe and CIS",38,"Turkey",79512426
+"2016",2,"Europe and CIS",39,"Ukraine",45004645
+"2016",3,"Middle East and Africa",40,"United Arab Emirates",9269612
+"2016",2,"Europe and CIS",41,"United Kingdom",65595565
+"2016",4,"North America",42,"United States",323405935
+"2016",2,"Europe and CIS",43,"Uzbekistan",31847900
+"2016",2,"Europe and CIS",44,"Venezuela, RB",31568179

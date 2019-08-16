@@ -1,0 +1,221 @@
+"Year","Fuel_Type","Region","Country","Consumption"
+"2012","Oil","Europe and CIS","Belgium",21
+"2012","Oil","Europe and CIS","Czech Rep.",8
+"2012","Oil","Europe and CIS","France",71
+"2012","Oil","Europe and CIS","Germany",98
+"2012","Oil","Europe and CIS","Italy",59
+"2012","Oil","Europe and CIS","Netherlands",25
+"2012","Oil","Europe and CIS","Poland",23
+"2012","Oil","Europe and CIS","Portugal",9
+"2012","Oil","Europe and CIS","Romania",9
+"2012","Oil","Europe and CIS","Spain",49
+"2012","Oil","Europe and CIS","Sweden",11
+"2012","Oil","Europe and CIS","United Kingdom",57
+"2012","Oil","Europe and CIS","Norway",9
+"2012","Oil","Europe and CIS","Turkey",31
+"2012","Oil","Europe and CIS","Kazakhstan",10
+"2012","Oil","Europe and CIS","Russia",140
+"2012","Oil","Europe and CIS","Ukraine",13
+"2012","Oil","Europe and CIS","Uzbekistan",3
+"2012","Oil","North America","Canada",108
+"2012","Oil","North America","United States",740
+"2012","Oil","South and Central America","Argentina",32
+"2012","Oil","South and Central America","Brazil",116
+"2012","Oil","South and Central America","Chile",14
+"2012","Oil","South and Central America","Colombia",12
+"2012","Oil","South and Central America","Mexico",89
+"2012","Oil","South and Central America","Venezuela",37
+"2012","Oil","Asia Pacific","China",438
+"2012","Oil","Asia Pacific","India",164
+"2012","Oil","Asia Pacific","Indonesia",69
+"2012","Oil","Asia Pacific","Japan",188
+"2012","Oil","Asia Pacific","Malaysia",25
+"2012","Oil","Asia Pacific","South Korea",92
+"2012","Oil","Asia Pacific","Taiwan",38
+"2012","Oil","Asia Pacific","Thailand",46
+"2012","Oil","Asia Pacific","Australia",45
+"2012","Oil","Asia Pacific","New Zealand",6
+"2012","Oil","Middle East and Africa","Algeria",16
+"2012","Oil","Middle East and Africa","Egypt",36
+"2012","Oil","Middle East and Africa","Nigeria",12
+"2012","Oil","Middle East and Africa","South Africa",25
+"2012","Oil","Middle East and Africa","Iran",80
+"2012","Oil","Middle East and Africa","Kuwait",15
+"2012","Oil","Middle East and Africa","Saudi Arabia",96
+"2012","Oil","Middle East and Africa","United Arab Emirates",14
+"2013","Oil","Europe and CIS","Belgium",21
+"2013","Oil","Europe and CIS","Czech Rep.",8
+"2013","Oil","Europe and CIS","France",70
+"2013","Oil","Europe and CIS","Germany",100
+"2013","Oil","Europe and CIS","Italy",53
+"2013","Oil","Europe and CIS","Netherlands",25
+"2013","Oil","Europe and CIS","Poland",21
+"2013","Oil","Europe and CIS","Portugal",9
+"2013","Oil","Europe and CIS","Romania",8
+"2013","Oil","Europe and CIS","Spain",47
+"2013","Oil","Europe and CIS","Sweden",10
+"2013","Oil","Europe and CIS","United Kingdom",55
+"2013","Oil","Europe and CIS","Norway",9
+"2013","Oil","Europe and CIS","Turkey",33
+"2013","Oil","Europe and CIS","Kazakhstan",11
+"2013","Oil","Europe and CIS","Russia",140
+"2013","Oil","Europe and CIS","Ukraine",12
+"2013","Oil","Europe and CIS","Uzbekistan",3
+"2013","Oil","North America","Canada",106
+"2013","Oil","North America","United States",739
+"2013","Oil","South and Central America","Argentina",31
+"2013","Oil","South and Central America","Brazil",120
+"2013","Oil","South and Central America","Chile",15
+"2013","Oil","South and Central America","Colombia",12
+"2013","Oil","South and Central America","Mexico",88
+"2013","Oil","South and Central America","Venezuela",34
+"2013","Oil","Asia Pacific","China",461
+"2013","Oil","Asia Pacific","India",166
+"2013","Oil","Asia Pacific","Indonesia",69
+"2013","Oil","Asia Pacific","Japan",186
+"2013","Oil","Asia Pacific","Malaysia",28
+"2013","Oil","Asia Pacific","South Korea",92
+"2013","Oil","Asia Pacific","Taiwan",39
+"2013","Oil","Asia Pacific","Thailand",50
+"2013","Oil","Asia Pacific","Australia",47
+"2013","Oil","Asia Pacific","New Zealand",6
+"2013","Oil","Middle East and Africa","Algeria",17
+"2013","Oil","Middle East and Africa","Egypt",36
+"2013","Oil","Middle East and Africa","Nigeria",11
+"2013","Oil","Middle East and Africa","South Africa",26
+"2013","Oil","Middle East and Africa","Iran",87
+"2013","Oil","Middle East and Africa","Kuwait",16
+"2013","Oil","Middle East and Africa","Saudi Arabia",99
+"2013","Oil","Middle East and Africa","United Arab Emirates",16
+"2014","Oil","Europe and CIS","Belgium",21
+"2014","Oil","Europe and CIS","Czech Rep.",9
+"2014","Oil","Europe and CIS","France",68
+"2014","Oil","Europe and CIS","Germany",97
+"2014","Oil","Europe and CIS","Italy",54
+"2014","Oil","Europe and CIS","Netherlands",24
+"2014","Oil","Europe and CIS","Poland",21
+"2014","Oil","Europe and CIS","Portugal",9
+"2014","Oil","Europe and CIS","Romania",8
+"2014","Oil","Europe and CIS","Spain",45
+"2014","Oil","Europe and CIS","Sweden",10
+"2014","Oil","Europe and CIS","United Kingdom",55
+"2014","Oil","Europe and CIS","Norway",8
+"2014","Oil","Europe and CIS","Turkey",32
+"2014","Oil","Europe and CIS","Kazakhstan",11
+"2014","Oil","Europe and CIS","Russia",153
+"2014","Oil","Europe and CIS","Ukraine",11
+"2014","Oil","Europe and CIS","Uzbekistan",3
+"2014","Oil","North America","Canada",102
+"2014","Oil","North America","United States",750
+"2014","Oil","South and Central America","Argentina",31
+"2014","Oil","South and Central America","Brazil",124
+"2014","Oil","South and Central America","Chile",14
+"2014","Oil","South and Central America","Colombia",13
+"2014","Oil","South and Central America","Mexico",85
+"2014","Oil","South and Central America","Venezuela",34
+"2014","Oil","Asia Pacific","China",476
+"2014","Oil","Asia Pacific","India",172
+"2014","Oil","Asia Pacific","Indonesia",69
+"2014","Oil","Asia Pacific","Japan",174
+"2014","Oil","Asia Pacific","Malaysia",29
+"2014","Oil","Asia Pacific","South Korea",93
+"2014","Oil","Asia Pacific","Taiwan",39
+"2014","Oil","Asia Pacific","Thailand",50
+"2014","Oil","Asia Pacific","Australia",47
+"2014","Oil","Asia Pacific","New Zealand",6
+"2014","Oil","Middle East and Africa","Algeria",18
+"2014","Oil","Middle East and Africa","Egypt",38
+"2014","Oil","Middle East and Africa","Nigeria",10
+"2014","Oil","Middle East and Africa","South Africa",25
+"2014","Oil","Middle East and Africa","Iran",84
+"2014","Oil","Middle East and Africa","Kuwait",15
+"2014","Oil","Middle East and Africa","Saudi Arabia",107
+"2014","Oil","Middle East and Africa","United Arab Emirates",17
+"2015","Oil","Europe and CIS","Belgium",22
+"2015","Oil","Europe and CIS","Czech Rep.",8
+"2015","Oil","Europe and CIS","France",68
+"2015","Oil","Europe and CIS","Germany",97
+"2015","Oil","Europe and CIS","Italy",54
+"2015","Oil","Europe and CIS","Netherlands",24
+"2015","Oil","Europe and CIS","Poland",23
+"2015","Oil","Europe and CIS","Portugal",9
+"2015","Oil","Europe and CIS","Romania",9
+"2015","Oil","Europe and CIS","Spain",48
+"2015","Oil","Europe and CIS","Sweden",10
+"2015","Oil","Europe and CIS","United Kingdom",57
+"2015","Oil","Europe and CIS","Norway",9
+"2015","Oil","Europe and CIS","Turkey",37
+"2015","Oil","Europe and CIS","Kazakhstan",12
+"2015","Oil","Europe and CIS","Russia",152
+"2015","Oil","Europe and CIS","Ukraine",10
+"2015","Oil","Europe and CIS","Uzbekistan",3
+"2015","Oil","North America","Canada",102
+"2015","Oil","North America","United States",760
+"2015","Oil","South and Central America","Argentina",33
+"2015","Oil","South and Central America","Brazil",116
+"2015","Oil","South and Central America","Chile",14
+"2015","Oil","South and Central America","Colombia",13
+"2015","Oil","South and Central America","Mexico",84
+"2015","Oil","South and Central America","Venezuela",29
+"2015","Oil","Asia Pacific","China",507
+"2015","Oil","Asia Pacific","India",191
+"2015","Oil","Asia Pacific","Indonesia",66
+"2015","Oil","Asia Pacific","Japan",170
+"2015","Oil","Asia Pacific","Malaysia",27
+"2015","Oil","Asia Pacific","South Korea",98
+"2015","Oil","Asia Pacific","Taiwan",40
+"2015","Oil","Asia Pacific","Thailand",49
+"2015","Oil","Asia Pacific","Australia",46
+"2015","Oil","Asia Pacific","New Zealand",6
+"2015","Oil","Middle East and Africa","Algeria",18
+"2015","Oil","Middle East and Africa","Egypt",39
+"2015","Oil","Middle East and Africa","Nigeria",11
+"2015","Oil","Middle East and Africa","South Africa",26
+"2015","Oil","Middle East and Africa","Iran",73
+"2015","Oil","Middle East and Africa","Kuwait",15
+"2015","Oil","Middle East and Africa","Saudi Arabia",115
+"2015","Oil","Middle East and Africa","United Arab Emirates",15
+"2016","Oil","Europe and CIS","Belgium",22
+"2016","Oil","Europe and CIS","Czech Rep.",8
+"2016","Oil","Europe and CIS","France",67
+"2016","Oil","Europe and CIS","Germany",98
+"2016","Oil","Europe and CIS","Italy",54
+"2016","Oil","Europe and CIS","Netherlands",24
+"2016","Oil","Europe and CIS","Poland",25
+"2016","Oil","Europe and CIS","Portugal",9
+"2016","Oil","Europe and CIS","Romania",9
+"2016","Oil","Europe and CIS","Spain",49
+"2016","Oil","Europe and CIS","Sweden",10
+"2016","Oil","Europe and CIS","United Kingdom",58
+"2016","Oil","Europe and CIS","Norway",9
+"2016","Oil","Europe and CIS","Turkey",40
+"2016","Oil","Europe and CIS","Kazakhstan",12
+"2016","Oil","Europe and CIS","Russia",157
+"2016","Oil","Europe and CIS","Ukraine",10
+"2016","Oil","Europe and CIS","Uzbekistan",2
+"2016","Oil","North America","Canada",103
+"2016","Oil","North America","United States",766
+"2016","Oil","South and Central America","Argentina",32
+"2016","Oil","South and Central America","Brazil",109
+"2016","Oil","South and Central America","Chile",15
+"2016","Oil","South and Central America","Colombia",13
+"2016","Oil","South and Central America","Mexico",87
+"2016","Oil","South and Central America","Venezuela",25
+"2016","Oil","Asia Pacific","China",525
+"2016","Oil","Asia Pacific","India",202
+"2016","Oil","Asia Pacific","Indonesia",65
+"2016","Oil","Asia Pacific","Japan",167
+"2016","Oil","Asia Pacific","Malaysia",28
+"2016","Oil","Asia Pacific","South Korea",105
+"2016","Oil","Asia Pacific","Taiwan",40
+"2016","Oil","Asia Pacific","Thailand",51
+"2016","Oil","Asia Pacific","Australia",45
+"2016","Oil","Asia Pacific","New Zealand",6
+"2016","Oil","Middle East and Africa","Algeria",18
+"2016","Oil","Middle East and Africa","Egypt",40
+"2016","Oil","Middle East and Africa","Nigeria",11
+"2016","Oil","Middle East and Africa","South Africa",25
+"2016","Oil","Middle East and Africa","Iran",70
+"2016","Oil","Middle East and Africa","Kuwait",16
+"2016","Oil","Middle East and Africa","Saudi Arabia",114
+"2016","Oil","Middle East and Africa","United Arab Emirates",15

@@ -1,0 +1,221 @@
+"Year","Fuel_Type","Region","Country","Trade"
+"2012","Gas","Europe and CIS","Belgium",17.7
+"2012","Gas","Europe and CIS","Czech Rep.",7.5
+"2012","Gas","Europe and CIS","France",41.6
+"2012","Gas","Europe and CIS","Germany",71.4
+"2012","Gas","Europe and CIS","Italy",67.6
+"2012","Gas","Europe and CIS","Netherlands",-34.3
+"2012","Gas","Europe and CIS","Poland",12.2
+"2012","Gas","Europe and CIS","Portugal",4.5
+"2012","Gas","Europe and CIS","Romania",2.9
+"2012","Gas","Europe and CIS","Spain",32.3
+"2012","Gas","Europe and CIS","Sweden",1.1
+"2012","Gas","Europe and CIS","United Kingdom",37.4
+"2012","Gas","Europe and CIS","Norway",-113.6
+"2012","Gas","Europe and CIS","Turkey",45.3
+"2012","Gas","Europe and CIS","Kazakhstan",-6.4
+"2012","Gas","Europe and CIS","Russia",-185.2
+"2012","Gas","Europe and CIS","Ukraine",32.4
+"2012","Gas","Europe and CIS","Uzbekistan",-10.2
+"2012","Gas","North America","Canada",-57
+"2012","Gas","North America","United States",41.5
+"2012","Gas","South and Central America","Argentina",9
+"2012","Gas","South and Central America","Brazil",13
+"2012","Gas","South and Central America","Chile",3.9
+"2012","Gas","South and Central America","Colombia",-1.9
+"2012","Gas","South and Central America","Mexico",23.1
+"2012","Gas","South and Central America","Venezuela",1.6
+"2012","Gas","Asia Pacific","China",37
+"2012","Gas","Asia Pacific","India",17.5
+"2012","Gas","Asia Pacific","Indonesia",-37
+"2012","Gas","Asia Pacific","Japan",121.6
+"2012","Gas","Asia Pacific","Malaysia",-22.6
+"2012","Gas","Asia Pacific","South Korea",47.8
+"2012","Gas","Asia Pacific","Taiwan",15.2
+"2012","Gas","Asia Pacific","Thailand",11.5
+"2012","Gas","Asia Pacific","Australia",-19.8
+"2012","Gas","Asia Pacific","New Zealand",0
+"2012","Gas","Middle East and Africa","Algeria",-52.3
+"2012","Gas","Middle East and Africa","Egypt",-6.2
+"2012","Gas","Middle East and Africa","Nigeria",-25.8
+"2012","Gas","Middle East and Africa","South Africa",3.8
+"2012","Gas","Middle East and Africa","Iran",-4.6
+"2012","Gas","Middle East and Africa","Kuwait",2.7
+"2012","Gas","Middle East and Africa","Saudi Arabia",0
+"2012","Gas","Middle East and Africa","United Arab Emirates",11.8
+"2013","Gas","Europe and CIS","Belgium",18.2
+"2013","Gas","Europe and CIS","Czech Rep.",8.5
+"2013","Gas","Europe and CIS","France",42.8
+"2013","Gas","Europe and CIS","Germany",75.8
+"2013","Gas","Europe and CIS","Italy",61.7
+"2013","Gas","Europe and CIS","Netherlands",-39.9
+"2013","Gas","Europe and CIS","Poland",12.4
+"2013","Gas","Europe and CIS","Portugal",4.4
+"2013","Gas","Europe and CIS","Romania",1.5
+"2013","Gas","Europe and CIS","Spain",29.7
+"2013","Gas","Europe and CIS","Sweden",1.1
+"2013","Gas","Europe and CIS","United Kingdom",39.3
+"2013","Gas","Europe and CIS","Norway",-106.2
+"2013","Gas","Europe and CIS","Turkey",44.6
+"2013","Gas","Europe and CIS","Kazakhstan",-5.1
+"2013","Gas","Europe and CIS","Russia",-203.7
+"2013","Gas","Europe and CIS","Ukraine",27.5
+"2013","Gas","Europe and CIS","Uzbekistan",-13.5
+"2013","Gas","North America","Canada",-55.8
+"2013","Gas","North America","United States",37.1
+"2013","Gas","South and Central America","Argentina",11.4
+"2013","Gas","South and Central America","Brazil",16.7
+"2013","Gas","South and Central America","Chile",3.9
+"2013","Gas","South and Central America","Colombia",-1.9
+"2013","Gas","South and Central America","Mexico",26.8
+"2013","Gas","South and Central America","Venezuela",1.9
+"2013","Gas","Asia Pacific","China",47.1
+"2013","Gas","Asia Pacific","India",17.4
+"2013","Gas","Asia Pacific","Indonesia",-34.6
+"2013","Gas","Asia Pacific","Japan",120.6
+"2013","Gas","Asia Pacific","Malaysia",-23.7
+"2013","Gas","Asia Pacific","South Korea",53.2
+"2013","Gas","Asia Pacific","Taiwan",15.3
+"2013","Gas","Asia Pacific","Thailand",12.1
+"2013","Gas","Asia Pacific","Australia",-25.4
+"2013","Gas","Asia Pacific","New Zealand",0
+"2013","Gas","Middle East and Africa","Algeria",-47.4
+"2013","Gas","Middle East and Africa","Egypt",-1.6
+"2013","Gas","Middle East and Africa","Nigeria",-21.9
+"2013","Gas","Middle East and Africa","South Africa",3.8
+"2013","Gas","Middle East and Africa","Iran",-3.9
+"2013","Gas","Middle East and Africa","Kuwait",2.2
+"2013","Gas","Middle East and Africa","Saudi Arabia",0
+"2013","Gas","Middle East and Africa","United Arab Emirates",12.7
+"2014","Gas","Europe and CIS","Belgium",16.1
+"2014","Gas","Europe and CIS","Czech Rep.",7.2
+"2014","Gas","Europe and CIS","France",38.1
+"2014","Gas","Europe and CIS","Germany",67.6
+"2014","Gas","Europe and CIS","Italy",55.5
+"2014","Gas","Europe and CIS","Netherlands",-29.6
+"2014","Gas","Europe and CIS","Poland",11.7
+"2014","Gas","Europe and CIS","Portugal",4.1
+"2014","Gas","Europe and CIS","Romania",0.6
+"2014","Gas","Europe and CIS","Spain",28.2
+"2014","Gas","Europe and CIS","Sweden",0.9
+"2014","Gas","Europe and CIS","United Kingdom",32.2
+"2014","Gas","Europe and CIS","Norway",-106.7
+"2014","Gas","Europe and CIS","Turkey",48.6
+"2014","Gas","Europe and CIS","Kazakhstan",-6.3
+"2014","Gas","Europe and CIS","Russia",-181
+"2014","Gas","Europe and CIS","Ukraine",19.1
+"2014","Gas","Europe and CIS","Uzbekistan",-14.7
+"2014","Gas","North America","Canada",-56.1
+"2014","Gas","North America","United States",33.4
+"2014","Gas","South and Central America","Argentina",11.6
+"2014","Gas","South and Central America","Brazil",19
+"2014","Gas","South and Central America","Chile",3.5
+"2014","Gas","South and Central America","Colombia",-1.9
+"2014","Gas","South and Central America","Mexico",28.8
+"2014","Gas","South and Central America","Venezuela",0.8
+"2014","Gas","Asia Pacific","China",53.6
+"2014","Gas","Asia Pacific","India",17.7
+"2014","Gas","Asia Pacific","Indonesia",-33.3
+"2014","Gas","Asia Pacific","Japan",122.4
+"2014","Gas","Asia Pacific","Malaysia",-24.3
+"2014","Gas","Asia Pacific","South Korea",49.1
+"2014","Gas","Asia Pacific","Taiwan",16.1
+"2014","Gas","Asia Pacific","Thailand",11.3
+"2014","Gas","Asia Pacific","Australia",-24.7
+"2014","Gas","Asia Pacific","New Zealand",0
+"2014","Gas","Middle East and Africa","Algeria",-44.6
+"2014","Gas","Middle East and Africa","Egypt",0.6
+"2014","Gas","Middle East and Africa","Nigeria",-24.9
+"2014","Gas","Middle East and Africa","South Africa",3.6
+"2014","Gas","Middle East and Africa","Iran",-2.2
+"2014","Gas","Middle East and Africa","Kuwait",3.3
+"2014","Gas","Middle East and Africa","Saudi Arabia",0
+"2014","Gas","Middle East and Africa","United Arab Emirates",11.9
+"2015","Gas","Europe and CIS","Belgium",17.1
+"2015","Gas","Europe and CIS","Czech Rep.",7.5
+"2015","Gas","Europe and CIS","France",39
+"2015","Gas","Europe and CIS","Germany",70
+"2015","Gas","Europe and CIS","Italy",61
+"2015","Gas","Europe and CIS","Netherlands",-13.1
+"2015","Gas","Europe and CIS","Poland",12.1
+"2015","Gas","Europe and CIS","Portugal",4.7
+"2015","Gas","Europe and CIS","Romania",0.2
+"2015","Gas","Europe and CIS","Spain",27.3
+"2015","Gas","Europe and CIS","Sweden",0.8
+"2015","Gas","Europe and CIS","United Kingdom",30.3
+"2015","Gas","Europe and CIS","Norway",-114.7
+"2015","Gas","Europe and CIS","Turkey",47.8
+"2015","Gas","Europe and CIS","Kazakhstan",-8.2
+"2015","Gas","Europe and CIS","Russia",-191.9
+"2015","Gas","Europe and CIS","Ukraine",16.2
+"2015","Gas","Europe and CIS","Uzbekistan",-16.1
+"2015","Gas","North America","Canada",-58.6
+"2015","Gas","North America","United States",26.5
+"2015","Gas","South and Central America","Argentina",11.2
+"2015","Gas","South and Central America","Brazil",18.1
+"2015","Gas","South and Central America","Chile",3.7
+"2015","Gas","South and Central America","Colombia",-0.4
+"2015","Gas","South and Central America","Mexico",36.4
+"2015","Gas","South and Central America","Venezuela",0.4
+"2015","Gas","Asia Pacific","China",55
+"2015","Gas","Asia Pacific","India",19.1
+"2015","Gas","Asia Pacific","Indonesia",-31.7
+"2015","Gas","Asia Pacific","Japan",114.7
+"2015","Gas","Asia Pacific","Malaysia",-24.1
+"2015","Gas","Asia Pacific","South Korea",43.4
+"2015","Gas","Asia Pacific","Taiwan",17.2
+"2015","Gas","Asia Pacific","Thailand",15.3
+"2015","Gas","Asia Pacific","Australia",-27.7
+"2015","Gas","Asia Pacific","New Zealand",0
+"2015","Gas","Middle East and Africa","Algeria",-43.5
+"2015","Gas","Middle East and Africa","Egypt",6.7
+"2015","Gas","Middle East and Africa","Nigeria",-25.4
+"2015","Gas","Middle East and Africa","South Africa",4
+"2015","Gas","Middle East and Africa","Iran",-0.5
+"2015","Gas","Middle East and Africa","Kuwait",4
+"2015","Gas","Middle East and Africa","Saudi Arabia",0
+"2015","Gas","Middle East and Africa","United Arab Emirates",10.6
+"2016","Gas","Europe and CIS","Belgium",17.6
+"2016","Gas","Europe and CIS","Czech Rep.",8.1
+"2016","Gas","Europe and CIS","France",42.7
+"2016","Gas","Europe and CIS","Germany",78.7
+"2016","Gas","Europe and CIS","Italy",65.1
+"2016","Gas","Europe and CIS","Netherlands",-14.9
+"2016","Gas","Europe and CIS","Poland",13.8
+"2016","Gas","Europe and CIS","Portugal",4.9
+"2016","Gas","Europe and CIS","Romania",1.2
+"2016","Gas","Europe and CIS","Spain",28.4
+"2016","Gas","Europe and CIS","Sweden",0.9
+"2016","Gas","Europe and CIS","United Kingdom",38.2
+"2016","Gas","Europe and CIS","Norway",-114.6
+"2016","Gas","Europe and CIS","Turkey",45.7
+"2016","Gas","Europe and CIS","Kazakhstan",-9.5
+"2016","Gas","Europe and CIS","Russia",-205.3
+"2016","Gas","Europe and CIS","Ukraine",10.7
+"2016","Gas","Europe and CIS","Uzbekistan",-18.3
+"2016","Gas","North America","Canada",-61.4
+"2016","Gas","North America","United States",19.4
+"2016","Gas","South and Central America","Argentina",10.2
+"2016","Gas","South and Central America","Brazil",11.5
+"2016","Gas","South and Central America","Chile",4
+"2016","Gas","South and Central America","Colombia",0.4
+"2016","Gas","South and Central America","Mexico",43.1
+"2016","Gas","South and Central America","Venezuela",-0.1
+"2016","Gas","Asia Pacific","China",69
+"2016","Gas","Asia Pacific","India",23.9
+"2016","Gas","Asia Pacific","Indonesia",-29.2
+"2016","Gas","Asia Pacific","Japan",116.5
+"2016","Gas","Asia Pacific","Malaysia",-24.5
+"2016","Gas","Asia Pacific","South Korea",44.2
+"2016","Gas","Asia Pacific","Taiwan",17.9
+"2016","Gas","Asia Pacific","Thailand",16.3
+"2016","Gas","Asia Pacific","Australia",-42.9
+"2016","Gas","Asia Pacific","New Zealand",0
+"2016","Gas","Middle East and Africa","Algeria",-54.3
+"2016","Gas","Middle East and Africa","Egypt",9.5
+"2016","Gas","Middle East and Africa","Nigeria",-23.2
+"2016","Gas","Middle East and Africa","South Africa",4
+"2016","Gas","Middle East and Africa","Iran",-2.2
+"2016","Gas","Middle East and Africa","Kuwait",4.5
+"2016","Gas","Middle East and Africa","Saudi Arabia",0
+"2016","Gas","Middle East and Africa","United Arab Emirates",10.7

@@ -1,0 +1,146 @@
+CREATE TABLE [Raw_Energy] (
+    [Year] varchar(50),
+    [Fuel_ID] numeric,
+    [Fuel_Type] varchar(50),
+    [Region_ID] numeric,
+    [Region] varchar(50),
+    [Country_ID] numeric,
+    [Country] varchar(50),
+    [Consumption] float,
+    [Production] float,
+    [Trade] float
+)
+
+
+
+
+CREATE TABLE [Raw_Reserve] (
+    [Year] varchar(50),
+    [Fuel_ID] numeric,
+    [Fuel_Type] varchar(50),
+    [Region_ID] numeric,
+    [Region] varchar(50),
+    [Reserves_in_Percentage] float
+)
+
+
+CREATE TABLE [Raw_Co2_Emission] (
+    [Year] varchar(50),
+    [Fuel_ID] numeric,
+    [Fuel_Type] varchar(50),
+    [Region_ID] numeric,
+    [Region] varchar(50),
+    [Country_ID] numeric,
+    [Country] varchar(50),
+    [Co2_Emission_in_mtCo2] float
+)
+
+
+CREATE TABLE [Raw_GDP_Growth] (
+    [Region] varchar(50),
+    [Year] varchar(50),
+    [Growth_in_Percentage] float,
+    [Region_ID] numeric
+)
+
+CREATE TABLE [Raw_Population] (
+    [Year] varchar(50),
+    [Region_ID] varchar(max),
+    [Region] varchar(max),
+    [Country_ID] varchar(max),
+    [Country] varchar(max),
+    [Population] numeric
+)
+
+
+if object_id ('facttable','U') is not null 
+drop table facttable ;
+go
+if object_id ('Dim_Location','U') is not null 
+drop table Dim_Location ;
+go
+if object_id ('Dim_Fuel_type','U') is not null 
+drop table Dim_Fuel_type ;
+go
+if object_id ('Dim_Time','U') is not null 
+drop table Dim_Time ;
+go
+
+
+create table Dim_Location (
+  Location_ID numeric IDENTITY primary key not null,
+  Region varchar(max),
+  Country varchar(max))
+
+  insert into Dim_Location(
+  Region,Country)
+  select distinct Region,Country from Raw_Co2_Emission order by Country
+
+  create table Dim_Fuel_type(
+  Fuel_ID numeric IDENTITY primary key not null,
+  Fuel_Type varchar(max)
+  )
+  Insert into Dim_Fuel_type(
+  Fuel_Type)
+  select distinct Fuel_Type from Raw_Energy
+  
+
+  create table Dim_Time(
+  Year_ID numeric IDENTITY primary key not null,
+  Year varchar(max))
+  insert into Dim_Time(
+  Year)
+  Select distinct Year from Raw_Energy
+
+
+
+
+create table FactTable (
+Fuel_ID numeric not null,
+Location_ID numeric not null,
+Year_ID numeric not null,
+Co2_Emission_in_mtCo2 float,
+Consumption float,
+Production float,
+Trade float,
+Reserves_in_Percentage float,
+GDP_Growth_in_Percentage float,
+[Population] float)
+
+
+Alter table FactTable add
+constraint Fuel_fk Foreign key(Fuel_ID) REFERENCES Dim_Fuel_Type(Fuel_ID),
+constraint Location_fk Foreign key(Location_ID) REFERENCES Dim_Location(Location_ID),
+constraint Time_fk Foreign key(Year_ID) REFERENCES Dim_Time(Year_ID)
+
+
+insert into FactTable(
+Fuel_ID ,
+Location_ID ,
+Year_ID,
+Co2_Emission_in_mtCo2,
+Consumption,
+Production,
+Trade,
+Reserves_in_Percentage,
+GDP_Growth_in_Percentage,
+[Population]
+)
+
+select distinct a.Fuel_ID,
+dl.Location_ID,
+dt.Year_ID,
+a.Co2_Emission_in_mtCo2 ,
+b.Consumption ,
+b.Production ,
+b.Trade,
+c.Reserves_in_Percentage,
+d.Growth_in_Percentage,
+e.[Population]
+ from Raw_Co2_Emission a join Raw_Energy b on 
+a.year=b.year and a.Region_ID = b.Region_ID and a.Country_ID=b.Country_ID and a.Fuel_ID = b.Fuel_ID
+join Raw_Reserve c on a.Region_ID = c.Region_ID and a.Year = c.Year and a.Fuel_ID = c.Fuel_ID
+join Raw_Population e on  a.Year = e.Year and a.Country_ID = e.Country_ID
+join Raw_GDP_Growth d on c.Year = d.Year and c.Region_ID = d.Region_ID
+join Dim_Location dl on  dl.Country = a.Country
+join dim_time dt on dt.year = a.year

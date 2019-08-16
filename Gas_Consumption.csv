@@ -1,0 +1,221 @@
+"Year","Fuel_Type","Region","Country","Consumption"
+"2012","Gas","Europe and CIS","Belgium",18
+"2012","Gas","Europe and CIS","Czech Rep.",8
+"2012","Gas","Europe and CIS","France",43
+"2012","Gas","Europe and CIS","Germany",86
+"2012","Gas","Europe and CIS","Italy",75
+"2012","Gas","Europe and CIS","Netherlands",46
+"2012","Gas","Europe and CIS","Poland",18
+"2012","Gas","Europe and CIS","Portugal",4
+"2012","Gas","Europe and CIS","Romania",14
+"2012","Gas","Europe and CIS","Spain",32
+"2012","Gas","Europe and CIS","Sweden",1
+"2012","Gas","Europe and CIS","United Kingdom",79
+"2012","Gas","Europe and CIS","Norway",6
+"2012","Gas","Europe and CIS","Turkey",45
+"2012","Gas","Europe and CIS","Kazakhstan",25
+"2012","Gas","Europe and CIS","Russia",471
+"2012","Gas","Europe and CIS","Ukraine",53
+"2012","Gas","Europe and CIS","Uzbekistan",53
+"2012","Gas","North America","Canada",105
+"2012","Gas","North America","United States",726
+"2012","Gas","South and Central America","Argentina",50
+"2012","Gas","South and Central America","Brazil",32
+"2012","Gas","South and Central America","Chile",5
+"2012","Gas","South and Central America","Colombia",10
+"2012","Gas","South and Central America","Mexico",74
+"2012","Gas","South and Central America","Venezuela",25
+"2012","Gas","Asia Pacific","China",147
+"2012","Gas","Asia Pacific","India",57
+"2012","Gas","Asia Pacific","Indonesia",41
+"2012","Gas","Asia Pacific","Japan",133
+"2012","Gas","Asia Pacific","Malaysia",38
+"2012","Gas","Asia Pacific","South Korea",51
+"2012","Gas","Asia Pacific","Taiwan",15
+"2012","Gas","Asia Pacific","Thailand",45
+"2012","Gas","Asia Pacific","Australia",37
+"2012","Gas","Asia Pacific","New Zealand",5
+"2012","Gas","Middle East and Africa","Algeria",34
+"2012","Gas","Middle East and Africa","Egypt",48
+"2012","Gas","Middle East and Africa","Nigeria",15
+"2012","Gas","Middle East and Africa","South Africa",5
+"2012","Gas","Middle East and Africa","Iran",152
+"2012","Gas","Middle East and Africa","Kuwait",18
+"2012","Gas","Middle East and Africa","Saudi Arabia",81
+"2012","Gas","Middle East and Africa","United Arab Emirates",66
+"2013","Gas","Europe and CIS","Belgium",18
+"2013","Gas","Europe and CIS","Czech Rep.",8
+"2013","Gas","Europe and CIS","France",46
+"2013","Gas","Europe and CIS","Germany",88
+"2013","Gas","Europe and CIS","Italy",70
+"2013","Gas","Europe and CIS","Netherlands",46
+"2013","Gas","Europe and CIS","Poland",18
+"2013","Gas","Europe and CIS","Portugal",4
+"2013","Gas","Europe and CIS","Romania",13
+"2013","Gas","Europe and CIS","Spain",30
+"2013","Gas","Europe and CIS","Sweden",1
+"2013","Gas","Europe and CIS","United Kingdom",78
+"2013","Gas","Europe and CIS","Norway",6
+"2013","Gas","Europe and CIS","Turkey",46
+"2013","Gas","Europe and CIS","Kazakhstan",27
+"2013","Gas","Europe and CIS","Russia",466
+"2013","Gas","Europe and CIS","Ukraine",49
+"2013","Gas","Europe and CIS","Uzbekistan",46
+"2013","Gas","North America","Canada",112
+"2013","Gas","North America","United States",739
+"2013","Gas","South and Central America","Argentina",50
+"2013","Gas","South and Central America","Brazil",38
+"2013","Gas","South and Central America","Chile",5
+"2013","Gas","South and Central America","Colombia",11
+"2013","Gas","South and Central America","Mexico",70
+"2013","Gas","South and Central America","Venezuela",24
+"2013","Gas","Asia Pacific","China",167
+"2013","Gas","Asia Pacific","India",52
+"2013","Gas","Asia Pacific","Indonesia",42
+"2013","Gas","Asia Pacific","Japan",128
+"2013","Gas","Asia Pacific","Malaysia",45
+"2013","Gas","Asia Pacific","South Korea",53
+"2013","Gas","Asia Pacific","Taiwan",16
+"2013","Gas","Asia Pacific","Thailand",48
+"2013","Gas","Asia Pacific","Australia",38
+"2013","Gas","Asia Pacific","New Zealand",5
+"2013","Gas","Middle East and Africa","Algeria",35
+"2013","Gas","Middle East and Africa","Egypt",46
+"2013","Gas","Middle East and Africa","Nigeria",15
+"2013","Gas","Middle East and Africa","South Africa",5
+"2013","Gas","Middle East and Africa","Iran",153
+"2013","Gas","Middle East and Africa","Kuwait",18
+"2013","Gas","Middle East and Africa","Saudi Arabia",82
+"2013","Gas","Middle East and Africa","United Arab Emirates",67
+"2014","Gas","Europe and CIS","Belgium",16
+"2014","Gas","Europe and CIS","Czech Rep.",8
+"2014","Gas","Europe and CIS","France",38
+"2014","Gas","Europe and CIS","Germany",79
+"2014","Gas","Europe and CIS","Italy",62
+"2014","Gas","Europe and CIS","Netherlands",40
+"2014","Gas","Europe and CIS","Poland",18
+"2014","Gas","Europe and CIS","Portugal",4
+"2014","Gas","Europe and CIS","Romania",12
+"2014","Gas","Europe and CIS","Spain",27
+"2014","Gas","Europe and CIS","Sweden",1
+"2014","Gas","Europe and CIS","United Kingdom",71
+"2014","Gas","Europe and CIS","Norway",6
+"2014","Gas","Europe and CIS","Turkey",49
+"2014","Gas","Europe and CIS","Kazakhstan",28
+"2014","Gas","Europe and CIS","Russia",465
+"2014","Gas","Europe and CIS","Ukraine",41
+"2014","Gas","Europe and CIS","Uzbekistan",47
+"2014","Gas","North America","Canada",116
+"2014","Gas","North America","United States",750
+"2014","Gas","South and Central America","Argentina",51
+"2014","Gas","South and Central America","Brazil",41
+"2014","Gas","South and Central America","Chile",4
+"2014","Gas","South and Central America","Colombia",11
+"2014","Gas","South and Central America","Mexico",72
+"2014","Gas","South and Central America","Venezuela",23
+"2014","Gas","Asia Pacific","China",184
+"2014","Gas","Asia Pacific","India",50
+"2014","Gas","Asia Pacific","Indonesia",43
+"2014","Gas","Asia Pacific","Japan",130
+"2014","Gas","Asia Pacific","Malaysia",45
+"2014","Gas","Asia Pacific","South Korea",47
+"2014","Gas","Asia Pacific","Taiwan",16
+"2014","Gas","Asia Pacific","Thailand",48
+"2014","Gas","Asia Pacific","Australia",39
+"2014","Gas","Asia Pacific","New Zealand",5
+"2014","Gas","Middle East and Africa","Algeria",38
+"2014","Gas","Middle East and Africa","Egypt",44
+"2014","Gas","Middle East and Africa","Nigeria",16
+"2014","Gas","Middle East and Africa","South Africa",5
+"2014","Gas","Middle East and Africa","Iran",172
+"2014","Gas","Middle East and Africa","Kuwait",18
+"2014","Gas","Middle East and Africa","Saudi Arabia",85
+"2014","Gas","Middle East and Africa","United Arab Emirates",66
+"2015","Gas","Europe and CIS","Belgium",17
+"2015","Gas","Europe and CIS","Czech Rep.",8
+"2015","Gas","Europe and CIS","France",41
+"2015","Gas","Europe and CIS","Germany",81
+"2015","Gas","Europe and CIS","Italy",68
+"2015","Gas","Europe and CIS","Netherlands",40
+"2015","Gas","Europe and CIS","Poland",18
+"2015","Gas","Europe and CIS","Portugal",5
+"2015","Gas","Europe and CIS","Romania",11
+"2015","Gas","Europe and CIS","Spain",28
+"2015","Gas","Europe and CIS","Sweden",1
+"2015","Gas","Europe and CIS","United Kingdom",72
+"2015","Gas","Europe and CIS","Norway",6
+"2015","Gas","Europe and CIS","Turkey",48
+"2015","Gas","Europe and CIS","Kazakhstan",29
+"2015","Gas","Europe and CIS","Russia",445
+"2015","Gas","Europe and CIS","Ukraine",33
+"2015","Gas","Europe and CIS","Uzbekistan",46
+"2015","Gas","North America","Canada",115
+"2015","Gas","North America","United States",767
+"2015","Gas","South and Central America","Argentina",52
+"2015","Gas","South and Central America","Brazil",41
+"2015","Gas","South and Central America","Chile",4
+"2015","Gas","South and Central America","Colombia",11
+"2015","Gas","South and Central America","Mexico",75
+"2015","Gas","South and Central America","Venezuela",23
+"2015","Gas","Asia Pacific","China",192
+"2015","Gas","Asia Pacific","India",50
+"2015","Gas","Asia Pacific","Indonesia",43
+"2015","Gas","Asia Pacific","Japan",124
+"2015","Gas","Asia Pacific","Malaysia",44
+"2015","Gas","Asia Pacific","South Korea",44
+"2015","Gas","Asia Pacific","Taiwan",18
+"2015","Gas","Asia Pacific","Thailand",48
+"2015","Gas","Asia Pacific","Australia",40
+"2015","Gas","Asia Pacific","New Zealand",5
+"2015","Gas","Middle East and Africa","Algeria",41
+"2015","Gas","Middle East and Africa","Egypt",45
+"2015","Gas","Middle East and Africa","Nigeria",17
+"2015","Gas","Middle East and Africa","South Africa",5
+"2015","Gas","Middle East and Africa","Iran",184
+"2015","Gas","Middle East and Africa","Kuwait",21
+"2015","Gas","Middle East and Africa","Saudi Arabia",87
+"2015","Gas","Middle East and Africa","United Arab Emirates",71
+"2016","Gas","Europe and CIS","Belgium",18
+"2016","Gas","Europe and CIS","Czech Rep.",9
+"2016","Gas","Europe and CIS","France",45
+"2016","Gas","Europe and CIS","Germany",89
+"2016","Gas","Europe and CIS","Italy",71
+"2016","Gas","Europe and CIS","Netherlands",42
+"2016","Gas","Europe and CIS","Poland",19
+"2016","Gas","Europe and CIS","Portugal",5
+"2016","Gas","Europe and CIS","Romania",11
+"2016","Gas","Europe and CIS","Spain",29
+"2016","Gas","Europe and CIS","Sweden",1
+"2016","Gas","Europe and CIS","United Kingdom",81
+"2016","Gas","Europe and CIS","Norway",6
+"2016","Gas","Europe and CIS","Turkey",46
+"2016","Gas","Europe and CIS","Kazakhstan",29
+"2016","Gas","Europe and CIS","Russia",437
+"2016","Gas","Europe and CIS","Ukraine",32
+"2016","Gas","Europe and CIS","Uzbekistan",45
+"2016","Gas","North America","Canada",125
+"2016","Gas","North America","United States",773
+"2016","Gas","South and Central America","Argentina",55
+"2016","Gas","South and Central America","Brazil",35
+"2016","Gas","South and Central America","Chile",5
+"2016","Gas","South and Central America","Colombia",11
+"2016","Gas","South and Central America","Mexico",77
+"2016","Gas","South and Central America","Venezuela",24
+"2016","Gas","Asia Pacific","China",207
+"2016","Gas","Asia Pacific","India",55
+"2016","Gas","Asia Pacific","Indonesia",44
+"2016","Gas","Asia Pacific","Japan",125
+"2016","Gas","Asia Pacific","Malaysia",45
+"2016","Gas","Asia Pacific","South Korea",46
+"2016","Gas","Asia Pacific","Taiwan",18
+"2016","Gas","Asia Pacific","Thailand",47
+"2016","Gas","Asia Pacific","Australia",42
+"2016","Gas","Asia Pacific","New Zealand",5
+"2016","Gas","Middle East and Africa","Algeria",41
+"2016","Gas","Middle East and Africa","Egypt",48
+"2016","Gas","Middle East and Africa","Nigeria",15
+"2016","Gas","Middle East and Africa","South Africa",5
+"2016","Gas","Middle East and Africa","Iran",188
+"2016","Gas","Middle East and Africa","Kuwait",22
+"2016","Gas","Middle East and Africa","Saudi Arabia",92
+"2016","Gas","Middle East and Africa","United Arab Emirates",72

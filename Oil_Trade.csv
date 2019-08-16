@@ -1,0 +1,221 @@
+"Year","Fuel_Type","Region","Country","Trade"
+"2012","Oil","Europe and CIS","Belgium",30.2
+"2012","Oil","Europe and CIS","Czech Rep.",7.1
+"2012","Oil","Europe and CIS","France",56.7
+"2012","Oil","Europe and CIS","Germany",93.2
+"2012","Oil","Europe and CIS","Italy",73.6
+"2012","Oil","Europe and CIS","Netherlands",57.5
+"2012","Oil","Europe and CIS","Poland",24.6
+"2012","Oil","Europe and CIS","Portugal",11.4
+"2012","Oil","Europe and CIS","Romania",5.1
+"2012","Oil","Europe and CIS","Spain",59.9
+"2012","Oil","Europe and CIS","Sweden",20.5
+"2012","Oil","Europe and CIS","United Kingdom",29.5
+"2012","Oil","Europe and CIS","Norway",-68.6
+"2012","Oil","Europe and CIS","Turkey",19.2
+"2012","Oil","Europe and CIS","Kazakhstan",-63.5
+"2012","Oil","Europe and CIS","Russia",-239.1
+"2012","Oil","Europe and CIS","Ukraine",1.6
+"2012","Oil","Europe and CIS","Uzbekistan",0
+"2012","Oil","North America","Canada",-80
+"2012","Oil","North America","United States",440.4
+"2012","Oil","South and Central America","Argentina",-2.9
+"2012","Oil","South and Central America","Brazil",-9.6
+"2012","Oil","South and Central America","Chile",8.7
+"2012","Oil","South and Central America","Colombia",-32.2
+"2012","Oil","South and Central America","Mexico",-65.7
+"2012","Oil","South and Central America","Venezuela",-91.6
+"2012","Oil","Asia Pacific","China",268.6
+"2012","Oil","Asia Pacific","India",184.8
+"2012","Oil","Asia Pacific","Indonesia",4.2
+"2012","Oil","Asia Pacific","Japan",178.8
+"2012","Oil","Asia Pacific","Malaysia",-1.7
+"2012","Oil","Asia Pacific","South Korea",128.2
+"2012","Oil","Asia Pacific","Taiwan",46.6
+"2012","Oil","Asia Pacific","Thailand",42.6
+"2012","Oil","Asia Pacific","Australia",9.7
+"2012","Oil","Asia Pacific","New Zealand",3.6
+"2012","Oil","Middle East and Africa","Algeria",-36.7
+"2012","Oil","Middle East and Africa","Egypt",-6.6
+"2012","Oil","Middle East and Africa","Nigeria",-118.4
+"2012","Oil","Middle East and Africa","South Africa",19.9
+"2012","Oil","Middle East and Africa","Iran",-63.1
+"2012","Oil","Middle East and Africa","Kuwait",-103
+"2012","Oil","Middle East and Africa","Saudi Arabia",-371.3
+"2012","Oil","Middle East and Africa","United Arab Emirates",-126.5
+"2013","Oil","Europe and CIS","Belgium",28
+"2013","Oil","Europe and CIS","Czech Rep.",6.6
+"2013","Oil","Europe and CIS","France",56.1
+"2013","Oil","Europe and CIS","Germany",90.5
+"2013","Oil","Europe and CIS","Italy",65.1
+"2013","Oil","Europe and CIS","Netherlands",54.6
+"2013","Oil","Europe and CIS","Poland",23.1
+"2013","Oil","Europe and CIS","Portugal",13.6
+"2013","Oil","Europe and CIS","Romania",5.5
+"2013","Oil","Europe and CIS","Spain",59.8
+"2013","Oil","Europe and CIS","Sweden",16.9
+"2013","Oil","Europe and CIS","United Kingdom",25.5
+"2013","Oil","Europe and CIS","Norway",-63.6
+"2013","Oil","Europe and CIS","Turkey",18.5
+"2013","Oil","Europe and CIS","Kazakhstan",-61.6
+"2013","Oil","Europe and CIS","Russia",-235.8
+"2013","Oil","Europe and CIS","Ukraine",0.8
+"2013","Oil","Europe and CIS","Uzbekistan",0
+"2013","Oil","North America","Canada",-92.6
+"2013","Oil","North America","United States",390.6
+"2013","Oil","South and Central America","Argentina",-0.5
+"2013","Oil","South and Central America","Brazil",-0.1
+"2013","Oil","South and Central America","Chile",9.5
+"2013","Oil","South and Central America","Colombia",-33.5
+"2013","Oil","South and Central America","Mexico",-62.4
+"2013","Oil","South and Central America","Venezuela",-97.6
+"2013","Oil","Asia Pacific","China",280.1
+"2013","Oil","Asia Pacific","India",189.2
+"2013","Oil","Asia Pacific","Indonesia",7.5
+"2013","Oil","Asia Pacific","Japan",177.9
+"2013","Oil","Asia Pacific","Malaysia",-1.5
+"2013","Oil","Asia Pacific","South Korea",122.8
+"2013","Oil","Asia Pacific","Taiwan",44.1
+"2013","Oil","Asia Pacific","Thailand",43.4
+"2013","Oil","Asia Pacific","Australia",11.1
+"2013","Oil","Asia Pacific","New Zealand",3.8
+"2013","Oil","Middle East and Africa","Algeria",-33.4
+"2013","Oil","Middle East and Africa","Egypt",-9
+"2013","Oil","Middle East and Africa","Nigeria",-102.8
+"2013","Oil","Middle East and Africa","South Africa",20.9
+"2013","Oil","Middle East and Africa","Iran",-58
+"2013","Oil","Middle East and Africa","Kuwait",-102.6
+"2013","Oil","Middle East and Africa","Saudi Arabia",-376.6
+"2013","Oil","Middle East and Africa","United Arab Emirates",-134.5
+"2014","Oil","Europe and CIS","Belgium",32.5
+"2014","Oil","Europe and CIS","Czech Rep.",7.4
+"2014","Oil","Europe and CIS","France",54.1
+"2014","Oil","Europe and CIS","Germany",89.4
+"2014","Oil","Europe and CIS","Italy",58.7
+"2014","Oil","Europe and CIS","Netherlands",53.9
+"2014","Oil","Europe and CIS","Poland",23.4
+"2014","Oil","Europe and CIS","Portugal",12
+"2014","Oil","Europe and CIS","Romania",7.2
+"2014","Oil","Europe and CIS","Spain",60.7
+"2014","Oil","Europe and CIS","Sweden",18.2
+"2014","Oil","Europe and CIS","United Kingdom",22.8
+"2014","Oil","Europe and CIS","Norway",-67.8
+"2014","Oil","Europe and CIS","Turkey",17.2
+"2014","Oil","Europe and CIS","Kazakhstan",-64.4
+"2014","Oil","Europe and CIS","Russia",-222
+"2014","Oil","Europe and CIS","Ukraine",0.1
+"2014","Oil","Europe and CIS","Uzbekistan",0
+"2014","Oil","North America","Canada",-103.8
+"2014","Oil","North America","United States",343.6
+"2014","Oil","South and Central America","Argentina",-1.4
+"2014","Oil","South and Central America","Brazil",-8.6
+"2014","Oil","South and Central America","Chile",8.9
+"2014","Oil","South and Central America","Colombia",-33.1
+"2014","Oil","South and Central America","Mexico",-59.4
+"2014","Oil","South and Central America","Venezuela",-90.9
+"2014","Oil","Asia Pacific","China",307.8
+"2014","Oil","Asia Pacific","India",189.4
+"2014","Oil","Asia Pacific","Indonesia",10
+"2014","Oil","Asia Pacific","Japan",165.4
+"2014","Oil","Asia Pacific","Malaysia",-1.8
+"2014","Oil","Asia Pacific","South Korea",125.8
+"2014","Oil","Asia Pacific","Taiwan",45.4
+"2014","Oil","Asia Pacific","Thailand",41
+"2014","Oil","Asia Pacific","Australia",10.3
+"2014","Oil","Asia Pacific","New Zealand",3.5
+"2014","Oil","Middle East and Africa","Algeria",-28.1
+"2014","Oil","Middle East and Africa","Egypt",-7.2
+"2014","Oil","Middle East and Africa","Nigeria",-104.5
+"2014","Oil","Middle East and Africa","South Africa",20.5
+"2014","Oil","Middle East and Africa","Iran",-61.5
+"2014","Oil","Middle East and Africa","Kuwait",-101.1
+"2014","Oil","Middle East and Africa","Saudi Arabia",-354.1
+"2014","Oil","Middle East and Africa","United Arab Emirates",-127.3
+"2015","Oil","Europe and CIS","Belgium",31.8
+"2015","Oil","Europe and CIS","Czech Rep.",7.1
+"2015","Oil","Europe and CIS","France",57.4
+"2015","Oil","Europe and CIS","Germany",90.9
+"2015","Oil","Europe and CIS","Italy",67.5
+"2015","Oil","Europe and CIS","Netherlands",59.1
+"2015","Oil","Europe and CIS","Poland",26.4
+"2015","Oil","Europe and CIS","Portugal",15
+"2015","Oil","Europe and CIS","Romania",7.2
+"2015","Oil","Europe and CIS","Spain",64.9
+"2015","Oil","Europe and CIS","Sweden",19.3
+"2015","Oil","Europe and CIS","United Kingdom",16.9
+"2015","Oil","Europe and CIS","Norway",-69.4
+"2015","Oil","Europe and CIS","Turkey",24.7
+"2015","Oil","Europe and CIS","Kazakhstan",-63.5
+"2015","Oil","Europe and CIS","Russia",-242.8
+"2015","Oil","Europe and CIS","Ukraine",0.2
+"2015","Oil","Europe and CIS","Uzbekistan",0
+"2015","Oil","North America","Canada",-116.4
+"2015","Oil","North America","United States",347.5
+"2015","Oil","South and Central America","Argentina",-1
+"2015","Oil","South and Central America","Brazil",-22.3
+"2015","Oil","South and Central America","Chile",8.6
+"2015","Oil","South and Central America","Colombia",-37.4
+"2015","Oil","South and Central America","Mexico",-59.5
+"2015","Oil","South and Central America","Venezuela",-98.5
+"2015","Oil","Asia Pacific","China",332.6
+"2015","Oil","Asia Pacific","India",202.9
+"2015","Oil","Asia Pacific","Indonesia",9.6
+"2015","Oil","Asia Pacific","Japan",165
+"2015","Oil","Asia Pacific","Malaysia",-7.3
+"2015","Oil","Asia Pacific","South Korea",139
+"2015","Oil","Asia Pacific","Taiwan",44.2
+"2015","Oil","Asia Pacific","Thailand",44.4
+"2015","Oil","Asia Pacific","Australia",7.3
+"2015","Oil","Asia Pacific","New Zealand",3.6
+"2015","Oil","Middle East and Africa","Algeria",-28.9
+"2015","Oil","Middle East and Africa","Egypt",-9.2
+"2015","Oil","Middle East and Africa","Nigeria",-104.1
+"2015","Oil","Middle East and Africa","South Africa",20.4
+"2015","Oil","Middle East and Africa","Iran",-64.5
+"2015","Oil","Middle East and Africa","Kuwait",-99.6
+"2015","Oil","Middle East and Africa","Saudi Arabia",-368.6
+"2015","Oil","Middle East and Africa","United Arab Emirates",-124.5
+"2016","Oil","Europe and CIS","Belgium",31
+"2016","Oil","Europe and CIS","Czech Rep.",5.3
+"2016","Oil","Europe and CIS","France",55.3
+"2016","Oil","Europe and CIS","Germany",91.1
+"2016","Oil","Europe and CIS","Italy",65.4
+"2016","Oil","Europe and CIS","Netherlands",60.6
+"2016","Oil","Europe and CIS","Poland",24.5
+"2016","Oil","Europe and CIS","Portugal",14.7
+"2016","Oil","Europe and CIS","Romania",8.1
+"2016","Oil","Europe and CIS","Spain",63.7
+"2016","Oil","Europe and CIS","Sweden",18.8
+"2016","Oil","Europe and CIS","United Kingdom",13.8
+"2016","Oil","Europe and CIS","Norway",-74.5
+"2016","Oil","Europe and CIS","Turkey",24.6
+"2016","Oil","Europe and CIS","Kazakhstan",-63.2
+"2016","Oil","Europe and CIS","Russia",-257.7
+"2016","Oil","Europe and CIS","Ukraine",0.5
+"2016","Oil","Europe and CIS","Uzbekistan",0
+"2016","Oil","North America","Canada",-117.7
+"2016","Oil","North America","United States",361.3
+"2016","Oil","South and Central America","Argentina",-1.5
+"2016","Oil","South and Central America","Brazil",-35.2
+"2016","Oil","South and Central America","Chile",8.6
+"2016","Oil","South and Central America","Colombia",-29.8
+"2016","Oil","South and Central America","Mexico",-60.7
+"2016","Oil","South and Central America","Venezuela",-91.5
+"2016","Oil","Asia Pacific","China",378.1
+"2016","Oil","Asia Pacific","India",213.9
+"2016","Oil","Asia Pacific","Indonesia",10.2
+"2016","Oil","Asia Pacific","Japan",162.1
+"2016","Oil","Asia Pacific","Malaysia",-6.7
+"2016","Oil","Asia Pacific","South Korea",145.9
+"2016","Oil","Asia Pacific","Taiwan",45.2
+"2016","Oil","Asia Pacific","Thailand",41.8
+"2016","Oil","Asia Pacific","Australia",4.5
+"2016","Oil","Asia Pacific","New Zealand",4
+"2016","Oil","Middle East and Africa","Algeria",-30.2
+"2016","Oil","Middle East and Africa","Egypt",-6.3
+"2016","Oil","Middle East and Africa","Nigeria",-87.1
+"2016","Oil","Middle East and Africa","South Africa",21.5
+"2016","Oil","Middle East and Africa","Iran",-91.7
+"2016","Oil","Middle East and Africa","Kuwait",-107.9
+"2016","Oil","Middle East and Africa","Saudi Arabia",-394
+"2016","Oil","Middle East and Africa","United Arab Emirates",-117.5

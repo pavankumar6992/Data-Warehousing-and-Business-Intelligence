@@ -1,0 +1,51 @@
+"Region","Year","Reserves_in_Percentage","Fuel_Type","Fuel_ID","Region_ID"
+"Asia Pacific","2012","8.2","Gas",1,1
+"Asia Pacific","2013","8.2","Gas",1,1
+"Asia Pacific","2014","8.2","Gas",1,1
+"Asia Pacific","2015","8.4","Gas",1,1
+"Asia Pacific","2016","9.4","Gas",1,1
+"Asia Pacific","2012"," 2.50","Oil",2,1
+"Asia Pacific","2013"," 2.49","Oil",2,1
+"Asia Pacific","2014"," 2.51","Oil",2,1
+"Asia Pacific","2015"," 2.89","Oil",2,1
+"Asia Pacific","2016"," 2.84","Oil",2,1
+"Europe and CIS","2012","31.2","Gas",1,2
+"Europe and CIS","2013","30.5","Gas",1,2
+"Europe and CIS","2014","31","Gas",1,2
+"Europe and CIS","2015","30.4","Gas",1,2
+"Europe and CIS","2016","30.4","Gas",1,2
+"Europe and CIS","2012"," 8.74","Oil",2,2
+"Europe and CIS","2013"," 8.76","Oil",2,2
+"Europe and CIS","2014"," 9.11","Oil",2,2
+"Europe and CIS","2015"," 9.16","Oil",2,2
+"Europe and CIS","2016"," 9.46","Oil",2,2
+"North America","2012","5.8","Gas",1,4
+"North America","2013","6.3","Gas",1,4
+"North America","2014","6.5","Gas",1,4
+"North America","2015","6.8","Gas",1,4
+"North America","2016","6","Gas",1,4
+"North America","2012","13.63","Oil",2,4
+"North America","2013","13.60","Oil",2,4
+"North America","2014","13.68","Oil",2,4
+"North America","2015","13.45","Oil",2,4
+"North America","2016","13.33","Oil",2,4
+"South and Central America","2012","4.1","Gas",1,5
+"South and Central America","2013","4.1","Gas",1,5
+"South and Central America","2014","4.1","Gas",1,5
+"South and Central America","2015","4.1","Gas",1,5
+"South and Central America","2016","4.1","Gas",1,5
+"South and Central America","2012","19.47","Oil",2,5
+"South and Central America","2013","19.53","Oil",2,5
+"South and Central America","2014","19.42","Oil",2,5
+"South and Central America","2015","19.45","Oil",2,5
+"South and Central America","2016","19.21","Oil",2,5
+"Middle East and Africa","2012","50.7","Gas",1,3
+"Middle East and Africa","2013","50.8","Gas",1,3
+"Middle East and Africa","2014","50.3","Gas",1,3
+"Middle East and Africa","2015","50.3","Gas",1,3
+"Middle East and Africa","2016","50.1","Gas",1,3
+"Middle East and Africa","2012","55.67","Oil",2,3
+"Middle East and Africa","2013","55.62","Oil",2,3
+"Middle East and Africa","2014","55.29","Oil",2,3
+"Middle East and Africa","2015","55.06","Oil",2,3
+"Middle East and Africa","2016","55.16","Oil",2,3
